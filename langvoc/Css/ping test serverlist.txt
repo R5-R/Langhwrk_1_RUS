@@ -1,0 +1,14 @@
+Internet server IPs for pinging to check internet connection status
+
+
+
+Google 8.8.8.8
+
+BBC.co.uk (england UK)   212.58.253.67
+
+Classic old school ping test ip 4.2.2.2
+
+
+
+"netstat -n" cmd command can be used to monitor current connections
+
